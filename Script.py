@@ -201,7 +201,7 @@ Nᴀᴍᴇ - {}"""
 
 Pʟᴇᴀsᴇ Cᴏɴᴛᴇᴄᴛ Fᴏʀ Sᴜᴘᴘᴏʀᴛ Tᴇᴀᴍ ☎️
 
-Rᴇᴏ̨ᴜᴇsᴛ Hᴇʀᴇ - 「<a href="https://t.me/AllnewForward_bot">WOLVERIN</a>」 </b> 📩"""
+Rᴇᴏ̨ᴜᴇsᴛ Hᴇʀᴇ - 「<a href="https://t.me/AllnewForward_bot">WOLVERIN</a>」📩"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
