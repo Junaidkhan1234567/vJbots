@@ -7,6 +7,6 @@ async def add_button(client, message):
     if message.chat.id == CHANNEL_ID:
         button = InlineKeyboardMarkup(
                 [[
-                 InlineKeyboardButton(" button name", url="link") 
+                 InlineKeyboardButton("🔎 Movies Request Group ⚡", url="https://t.me/thinkfilmy") 
                 ]])
         await message.edit_reply_markup(reply_markup=button)
