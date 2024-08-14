@@ -1,4 +1,5 @@
-from pyrogram.types import *
+from pyrogram import Client, filters
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 CHANNEL_ID = -1001909796512
 
